@@ -18,3 +18,6 @@ This project uses MATLAB and computer vision techniques to analyze the motion of
 1. Clone the repository.
 2. Run the MATLAB script to automatically process video/images, extract motion data, apply PCA, and display the principal component graph.
 3. Save the graph from the MATLAB pop-up for your own use.
+
+### Note
+Due to large filesize, the video data samples are not currently available in this repo. If you require them please contact me and I will provide a separate link to them.
